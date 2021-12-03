@@ -5,4 +5,4 @@ A really fun event hosted on [adventofcode](https://adventofcode.com) - I usuall
 But what let's see how far I can get after it this year.
 
 ### Days Completed
-2/25
+3/25 ~ 3ish 🦀
