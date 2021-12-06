@@ -63,7 +63,7 @@ fn determine_gamma(lines: Vec<String>) -> isize {
 }
 
 fn determine_epsilon(lines: Vec<String>) -> isize {
-    let list = total_up_list(lines);
+    let list: Vec<(u32, u32)> = total_up_list(lines);
 
     let mut final_arr = [0; BIT_SIZE];
     let mut ctr = 0;
